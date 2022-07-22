@@ -4,7 +4,7 @@
     var pass=document.getElementById('password').value;
     if(uname=="world" && pass=="123")
     {
-        location.assign("file:///C:/Users/Kanta/Desktop/page.html")
+        location.assign("page.html")
     }
     else
     {
