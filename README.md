@@ -1,2 +1,2 @@
 # html-css-js-project-boilerplate
-Login authentication form Assignment  by newton school
+Frontend Mentor interactive-rating-component-main  Assignment  by newton school using HTML Js-Mini-Project
